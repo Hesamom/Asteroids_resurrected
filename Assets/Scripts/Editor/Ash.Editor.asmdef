@@ -1,0 +1,20 @@
+{
+    "name": "Ash.Editor",
+    "rootNamespace": "Ash.Editor",
+    "references": [
+        "GUID:53af7f1119f5c7444af95d426fb8091b",
+        "GUID:22c590dd80cc44f691e28320d9cd60b2",
+        "GUID:75469ad4d38634e559750d17036d5f7c"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
