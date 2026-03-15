@@ -27,7 +27,7 @@ namespace Ash.Runtime.Game
 
 		public void SetVelocity(Vector2 velocity)
 		{
-			m_Body.velocity = velocity;
+			m_Body.linearVelocity = velocity;
 		}
 	}
 }
